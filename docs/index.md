@@ -45,7 +45,7 @@ emulation, and logs every chip register write.
 
 ## Source
 
-The project lives on [GitHub](https://github.com/TheWhyteWolf/hootrip). It is a
+The project lives on [GitHub](https://github.com/allthemalware/hootrip). It is a
 Rust workspace (`hoot-xml`, `hoot-log`, `hoot-chips`, `hoot-cpu`, `hoot-machine`,
 `hootrip-cli`); build with `cargo build --release` and run the `hootrip` binary
 against your archive.

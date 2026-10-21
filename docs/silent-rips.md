@@ -26,7 +26,7 @@ The manifest therefore listed 58,821 tracks under `ok` and **zero** under
 
 ## 2. The audibility gate
 
-`hoot-log`'s [`audible`](https://github.com/TheWhyteWolf/hootrip/blob/main/crates/hoot-log/src/audible.rs)
+`hoot-log`'s [`audible`](https://github.com/allthemalware/hootrip/blob/main/crates/hoot-log/src/audible.rs)
 module classifies a log on activity that can actually reach the output:
 
 | Class | Meaning |

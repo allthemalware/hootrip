@@ -14,7 +14,7 @@ exclude = ["vendor/iz80"]
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/TheWhyteWolf/hootrip"
+repository = "https://github.com/allthemalware/hootrip"
 
 [workspace.dependencies]
 anyhow = "1"
